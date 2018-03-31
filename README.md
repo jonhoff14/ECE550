@@ -1,4 +1,4 @@
-# ECE550
+# youBot RRT motion planning
 
 Code for final project of ECE 550 - Advanced Robotic Planning.
 Developed by: Jonathan Hoff and Usman Syed
